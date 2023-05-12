@@ -1,8 +1,8 @@
 <div align="center"><img alt="logo_dsMeta" src="https://github.com/salvedojuliao/dsmeta-system/assets/44206400/34c848bf-550c-4b42-ac84-2b3fd119f2b0" /></div>
 <h1 align="center"> DSMeta System  <h1>
   
-![banner-dsMeta](https://github.com/salvedojuliao/dsmeta-system/assets/44206400/f78e378f-0f96-41d5-a474-f85d10ce3260)
-  
+![banner-dsmeta](https://github.com/salvedojuliao/dsmeta-system/assets/44206400/bcda2913-70fd-482b-9c14-9216c6633125)
+
 <p align="center">
    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/salvedojuliao/dsmeta-system" />
    <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/salvedojuliao/Mitoafro" />
